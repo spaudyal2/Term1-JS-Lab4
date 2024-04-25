@@ -1,0 +1,32 @@
+[
+	{
+		"game": "Super Mario 3D World",
+		"release": 2013,
+		"characters": ["Mario", "Meowser", "Rosalina", "Skipsqueak", "Goomba", "Stingby", "Captain Toad"],
+		"stars": 4
+	},
+	{
+		"game": "Paper Mario: Color Splash",
+		"release": 2016,
+		"characters": ["Mario", "Princess Peach", "Huey", "Toad", "Shy Guy", "Ninji", "Koopa Troopa", "Goomba"],
+		"stars": 3
+	},
+	{
+		"game": "Captain Toad: Treasure Tracker",
+		"release": 2014,
+		"characters": ["Captain Toad", "Toadette", "Goomba", "Shy Guy", "Boo", "Hammer Bro"],
+		"stars": 5
+	},
+	{
+		"game": "Super Mario Bros. 3",
+		"release": 1990,
+		"characters": ["Mario", "Luigi", "Hammer Bro", "Boo", "Dry Bones", "Angry Sun", "Koopa Troopa"],
+		"stars": 3
+	},
+	{
+		"game": "Super Mario Bros. 2",
+		"release": 1988,
+		"characters": ["Mario", "Luigi", "Toad", "Princess Toadstool", "Snifit", "Shy Guy", "Ninji"],
+		"stars": 4
+	}
+]
